@@ -1,2 +1,9 @@
 ## Hi, I'm Amir.
-### I am Front-end Developer.
+### I am `Mobile Developer` Enthusiast.
+
+```hi.kt
+fun main(){
+  val name: string = "Amir Hamzah";
+  var age: int = 17;
+}
+```
