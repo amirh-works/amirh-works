@@ -3,7 +3,7 @@
 
 ```hi.kt
 fun main(){
-  val name: string = "Amir Hamzah";
-  var age: int = 17;
+  val name: String = "Amir Hamzah";
+  var age: Int = 17;
 }
 ```
