@@ -1,3 +1,5 @@
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white)![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+
 # Hi there, I'm Amir Hamzah! 👋
 
 🎓 **Vocational High School Student** | 💻 **Aspiring Fullstack Developer**
