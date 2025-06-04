@@ -2,17 +2,17 @@
 
 # Hi there, I'm Amir! 👋
 
-🎓 **Vocational High School Student** | 💻 **Aspiring Fullstack Developer**
+**Vocational High School Student** | 💻 **Aspiring Fullstack Developer**
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Passionate about building modern and intuitive app UI and UX. Currently majoring in Computer Science, I love turning ideas into robust, beautiful web and native apps.
 
 ---
 
-## 🚀 Tech Stack & Skills
+## Tech Stack
 
 **Web Development:**
 - ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white)
@@ -28,23 +28,17 @@ Passionate about building modern and intuitive app UI and UX. Currently majoring
 
 ---
 
-## 🌟 Featured Project
+## Featured Project
 
 ### [Thunders AI](https://thunders-ai.vercel.app)  
 An open-source project focused on delivering smart, AI-powered solutions with a clean and intuitive interface.
 
 ---
 
-## 🌐 Find Me Online
+## Find Me Online
 
 - **Portfolio:** [amirhamzah.my.id](https://amirhamzah.my.id)
 - **GitHub:** [AmirHamzah-1Fz](https://github.com/AmirHamzah-1Fz)
-
----
-
-## 📚 Fun Fact
-
-When I'm not coding, I love reading educational books—my favorite is _Atomic Habits_!
 
 ---
 
