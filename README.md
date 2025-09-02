@@ -28,8 +28,6 @@ Passionate about building modern and intuitive app UI and UX. Currently majoring
 
 ---
 
----
-
 ## Find Me Online
 
 - **Portfolio:** [amirhamzah.my.id](https://amirhamzah.my.id)
