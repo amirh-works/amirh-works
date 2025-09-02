@@ -28,11 +28,6 @@ Passionate about building modern and intuitive app UI and UX. Currently majoring
 
 ---
 
-## Featured Project
-
-### [Thunders AI](https://thunders-ai.vercel.app)  
-An open-source project focused on delivering smart, AI-powered solutions with a clean and intuitive interface.
-
 ---
 
 ## Find Me Online
