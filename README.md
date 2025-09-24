@@ -3,3 +3,5 @@
 # I'm Amir.
 
 **Vocational High School Student** | **Aspiring Fullstack Developer**
+
+[Find me online](https://amirhamzah.my.id)
