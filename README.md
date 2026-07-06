@@ -1,5 +1,5 @@
 # I'm Amir.
 
-**Vocational High School Student** | **Aspiring Mobile Developer**
+**Vocational High School Student** | **Aspiring UI/UX and Mobile Developer**
 
 [Find me online](https://amirhamzah.my.id)
