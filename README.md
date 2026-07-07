@@ -2,4 +2,4 @@
 
 **Vocational High School Student** | **Aspiring UI/UX and Mobile Developer**
 
-[Find me online](https://amirhamzah.my.id)
+[Find me online](https://amirh.works)
